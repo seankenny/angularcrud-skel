@@ -1,0 +1,17 @@
+{
+  "name": "angularcrud-skel",
+  "version": "0.0.1",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "vendor",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.0.7",
+    "angular-bootstrap": "~0.4.0",
+    "angular-ui": "~0.4.0",
+    "bootstrap": "~3.0.0-rc1"
+  }
+}
